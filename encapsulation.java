@@ -3,6 +3,10 @@ class Test{
    Car car = new Car()
     car.setCompant("TATA");
    car.setColor("WHiTE");
+   car.setColor("WHiTE");
+   car.setColor("WHiTE");
+   car.setColor("WHiTE");
+   car.setColor("WHiTE");
   } 
     
   
